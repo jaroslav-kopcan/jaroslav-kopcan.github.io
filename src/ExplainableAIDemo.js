@@ -51,7 +51,7 @@ const jobPostings = [
     description:
       "Join DesignHub as a UX Designer and help create intuitive, innovative user experiences. You'll conduct user research, create wireframes and prototypes, and collaborate with developers to bring designs to life.",
   },
-];
+]; 
 
 const candidates = [
   {
